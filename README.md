@@ -5,6 +5,5 @@
 ## 赛题任务
 ##### 供应链需求预测，对原问题做建模问题简化。考虑商品在制造，国际航运，海关清关，商品入仓的供应链过程，实际的产品准备时长不同。这里将问题简化，统一在45天内完成，供应链预测目标市场为沙特阿拉伯。赛题为运用平台积累最近1年多的商品数据预测45天后5周每周（week1~week5）的销量。
 
-具体Task参考 https://www.datafountain.cn/competitions/313/details/data-evaluation?lang=en-US
-我们对该问题的思考，答辩PPT，及Xgboost单模型代码均开源。
+#### 具体Task参考 https://www.datafountain.cn/competitions/313/details/data-evaluation?lang=en-US 我们对该问题的思考，答辩PPT，及Xgboost单模型代码均开源。Seq2Seq由于为队友手工实现，成为了他的专属轮子和Trick，故在此不放出，如有任何需要探讨FFT与Seq2Seq的使用可发邮件与我联系。
 
